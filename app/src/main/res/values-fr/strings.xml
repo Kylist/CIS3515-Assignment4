@@ -1,5 +1,6 @@
+
 <resources>
-    <string name="app_name">Lab4</string>
+    <string name="app_name">Lab5</string>
     <string-array name="array1">
         <item
             >WHITE</item>
@@ -25,17 +26,17 @@
 
     <string-array name="array2">
         <item
-            >BLANCO</item>
+            >BLANC</item>
         <item
-            >AZUL</item>
+            >BLEU</item>
         <item
-            >VERDE</item>
+            >VERT</item>
         <item
-            >AMARILLO</item>
+            >JAUNE</item>
         <item
-            >ROJO</item>
+            >ROUGE</item>
         <item
-            >NEGRO</item>
+            >NOIR</item>
         <item
             >CIAN</item>
         <item
@@ -43,6 +44,8 @@
         <item
             >MAGENTA</item>
         <item
-            >GRIS OSCURO</item>
+            >GRIS FONCÉ</item>
     </string-array>
+    <string name="click_a_color_below_to_run" translatable="false">" Cliquez sur une couleur ci-dessous pour exécuter"</string>
+    <string name="textview" translatable="false">" Affichage"</string>
 </resources>

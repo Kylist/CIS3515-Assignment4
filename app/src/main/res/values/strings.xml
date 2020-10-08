@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Lab4</string>
     <string name="textview">TextView</string>
+    <string name="click_a_color_below_to_run">Click a color below to run</string>
 
     <string-array name="array1">
         <item
